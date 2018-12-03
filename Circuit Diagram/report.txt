@@ -1,0 +1,98 @@
+Hinweis: Erstelle Sicherungskopie von Datei „D:\Harry's Workshop\_ATMEL AVR\+Projekte\++ ZK-2 Smart Car ++\Circuit Diagram\sym-lib-table“ in Datei „D:\Harry's Workshop\_ATMEL AVR\+Projekte\++ ZK-2 Smart Car ++\Circuit Diagram\rescue-backup\sym-lib-table-2018-11-17-20-14-04“.
+Hinweis: Erstelle Sicherungskopie von Datei „D:\Harry's Workshop\_ATMEL AVR\+Projekte\++ ZK-2 Smart Car ++\Circuit Diagram\++ ZK-2 Smart Car ++.sch“ in Datei „D:\Harry's Workshop\_ATMEL AVR\+Projekte\++ ZK-2 Smart Car ++\Circuit Diagram\rescue-backup\++ ZK-2 Smart Car ++-2018-11-17-20-14-04.sch“.
+Hinweis: Erstelle Sicherungskopie von Datei „D:\Harry's Workshop\_ATMEL AVR\+Projekte\++ ZK-2 Smart Car ++\Circuit Diagram\++ ZK-2 Smart Car ++.pro“ in Datei „D:\Harry's Workshop\_ATMEL AVR\+Projekte\++ ZK-2 Smart Car ++\Circuit Diagram\rescue-backup\++ ZK-2 Smart Car ++-2018-11-17-20-14-04.pro“.
+Hinweis: Erstelle Sicherungskopie von Datei „D:\Harry's Workshop\_ATMEL AVR\+Projekte\++ ZK-2 Smart Car ++\Circuit Diagram\++ ZK-2 Smart Car ++-cache.lib“ in Datei „D:\Harry's Workshop\_ATMEL AVR\+Projekte\++ ZK-2 Smart Car ++\Circuit Diagram\rescue-backup\++ ZK-2 Smart Car ++-cache-2018-11-17-20-14-04.lib“.
+Hinweis: Erstelle Sicherungskopie von Datei „D:\Harry's Workshop\_ATMEL AVR\+Projekte\++ ZK-2 Smart Car ++\Circuit Diagram\++ ZK-2 Smart Car ++-rescue.lib“ in Datei „D:\Harry's Workshop\_ATMEL AVR\+Projekte\++ ZK-2 Smart Car ++\Circuit Diagram\rescue-backup\++ ZK-2 Smart Car ++-rescue-2018-11-17-20-14-04.lib“.
+Hinweis: Erstelle Sicherungskopie von Datei „D:\Harry's Workshop\_ATMEL AVR\+Projekte\++ ZK-2 Smart Car ++\Circuit Diagram\++ ZK-2 Smart Car ++-rescue.dcm“ in Datei „D:\Harry's Workshop\_ATMEL AVR\+Projekte\++ ZK-2 Smart Car ++\Circuit Diagram\rescue-backup\++ ZK-2 Smart Car ++-rescue-2018-11-17-20-14-04.dcm“.
+Hinweis: Füge Bibliothek „++-ZK-2-Smart-Car-++-rescue“, Datei „${KIPRJMOD}/++ ZK-2 Smart Car ++-rescue.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „#atmel“, Datei „${KICAD_SYMBOL_DIR}/#HK-lib/#atmel.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „#cmos_ieee“, Datei „${KICAD_SYMBOL_DIR}/#HK-lib/#cmos_ieee.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „#conn“, Datei „${KICAD_SYMBOL_DIR}/#HK-lib/#conn.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „#dc-dc“, Datei „${KICAD_SYMBOL_DIR}/#HK-lib/#dc-dc.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „#device“, Datei „${KICAD_SYMBOL_DIR}/#HK-lib/#device.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „#diode“, Datei „${KICAD_SYMBOL_DIR}/#HK-lib/#diode.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „#linear“, Datei „${KICAD_SYMBOL_DIR}/#HK-lib/#linear.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „#memory“, Datei „${KICAD_SYMBOL_DIR}/#HK-lib/#memory.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „#motor_drivers“, Datei „${KICAD_SYMBOL_DIR}/#HK-lib/#motor_drivers.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „#motors“, Datei „${KICAD_SYMBOL_DIR}/#HK-lib/#motors.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „#opto“, Datei „${KICAD_SYMBOL_DIR}/#HK-lib/#opto.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „#power“, Datei „${KICAD_SYMBOL_DIR}/#HK-lib/#power.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „#rcl“, Datei „${KICAD_SYMBOL_DIR}/#HK-lib/#rcl.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „#switches“, Datei „${KICAD_SYMBOL_DIR}/#HK-lib/#switches.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „#symbol“, Datei „${KICAD_SYMBOL_DIR}/#HK-lib/#symbol.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „transistors“, Datei „${KICAD_SYMBOL_DIR}/transistors.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „conn“, Datei „${KICAD_SYMBOL_DIR}/conn.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „linear“, Datei „${KICAD_SYMBOL_DIR}/linear.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „regul“, Datei „${KICAD_SYMBOL_DIR}/regul.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „cmos4000“, Datei „${KICAD_SYMBOL_DIR}/cmos4000.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „adc-dac“, Datei „${KICAD_SYMBOL_DIR}/adc-dac.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „memory“, Datei „${KICAD_SYMBOL_DIR}/memory.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „xilinx“, Datei „${KICAD_SYMBOL_DIR}/xilinx.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „microcontrollers“, Datei „${KICAD_SYMBOL_DIR}/microcontrollers.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „dsp“, Datei „${KICAD_SYMBOL_DIR}/dsp.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „microchip“, Datei „${KICAD_SYMBOL_DIR}/microchip.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „analog_switches“, Datei „${KICAD_SYMBOL_DIR}/analog_switches.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „motorola“, Datei „${KICAD_SYMBOL_DIR}/motorola.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „texas“, Datei „${KICAD_SYMBOL_DIR}/texas.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „intel“, Datei „${KICAD_SYMBOL_DIR}/intel.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „digital-audio“, Datei „${KICAD_SYMBOL_DIR}/digital-audio.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „philips“, Datei „${KICAD_SYMBOL_DIR}/philips.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „display“, Datei „${KICAD_SYMBOL_DIR}/display.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „cypress“, Datei „${KICAD_SYMBOL_DIR}/cypress.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „siliconi“, Datei „${KICAD_SYMBOL_DIR}/siliconi.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „opto“, Datei „${KICAD_SYMBOL_DIR}/opto.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „atmel“, Datei „${KICAD_SYMBOL_DIR}/atmel.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „contrib“, Datei „${KICAD_SYMBOL_DIR}/contrib.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Hinweis: Füge Bibliothek „valves“, Datei „${KICAD_SYMBOL_DIR}/valves.lib“ der Symbolbibliothekstabelle des Projektes hinzu.
+Bauteilsymbol „CONN_01X08“ wurde der Bibliothek „++-ZK-2-Smart-Car-++-rescue“ zugeordnet.
+Bauteilsymbol „+3.3V“ wurde der Bibliothek „power“ zugeordnet.
+Bauteilsymbol „+5V“ wurde der Bibliothek „power“ zugeordnet.
+Bauteilsymbol „GND“ wurde der Bibliothek „#power“ zugeordnet.
+Bauteilsymbol „GND“ wurde der Bibliothek „#power“ zugeordnet.
+Bauteilsymbol „CONN_01X06“ wurde der Bibliothek „++-ZK-2-Smart-Car-++-rescue“ zugeordnet.
+Bauteilsymbol „CONN_01X01“ wurde der Bibliothek „++-ZK-2-Smart-Car-++-rescue“ zugeordnet.
+Bauteilsymbol „CONN_01X01“ wurde der Bibliothek „++-ZK-2-Smart-Car-++-rescue“ zugeordnet.
+Bauteilsymbol „CONN_01X01“ wurde der Bibliothek „++-ZK-2-Smart-Car-++-rescue“ zugeordnet.
+Bauteilsymbol „CONN_01X01“ wurde der Bibliothek „++-ZK-2-Smart-Car-++-rescue“ zugeordnet.
+Bauteilsymbol „CONN_01X08“ wurde der Bibliothek „++-ZK-2-Smart-Car-++-rescue“ zugeordnet.
+Bauteilsymbol „CONN_01X10“ wurde der Bibliothek „++-ZK-2-Smart-Car-++-rescue“ zugeordnet.
+Bauteilsymbol „L293D“ wurde der Bibliothek „#motor_drivers“ zugeordnet.
+Bauteilsymbol „Screw_Terminal_01x06“ wurde der Bibliothek „conn“ zugeordnet.
+Bauteilsymbol „Motor_DC“ wurde der Bibliothek „#motors“ zugeordnet.
+Bauteilsymbol „Motor_DC“ wurde der Bibliothek „#motors“ zugeordnet.
+Bauteilsymbol „LED“ wurde der Bibliothek „#opto“ zugeordnet.
+Bauteilsymbol „LED“ wurde der Bibliothek „#opto“ zugeordnet.
+Bauteilsymbol „LED“ wurde der Bibliothek „#opto“ zugeordnet.
+Bauteilsymbol „LED“ wurde der Bibliothek „#opto“ zugeordnet.
+Bauteilsymbol „R“ wurde der Bibliothek „#rcl“ zugeordnet.
+Bauteilsymbol „R“ wurde der Bibliothek „#rcl“ zugeordnet.
+Bauteilsymbol „R“ wurde der Bibliothek „#rcl“ zugeordnet.
+Bauteilsymbol „R“ wurde der Bibliothek „#rcl“ zugeordnet.
+Bauteilsymbol „GND“ wurde der Bibliothek „#power“ zugeordnet.
+Bauteilsymbol „GND“ wurde der Bibliothek „#power“ zugeordnet.
+Bauteilsymbol „GND“ wurde der Bibliothek „#power“ zugeordnet.
+Bauteilsymbol „Conn_01x05_Male“ wurde der Bibliothek „conn“ zugeordnet.
+Bauteilsymbol „KA78M05_TO252“ wurde der Bibliothek „regul“ zugeordnet.
+Bauteilsymbol „CP“ wurde der Bibliothek „#rcl“ zugeordnet.
+Bauteilsymbol „CP“ wurde der Bibliothek „#rcl“ zugeordnet.
+Bauteilsymbol „GND“ wurde der Bibliothek „#power“ zugeordnet.
+Bauteilsymbol „GND“ wurde der Bibliothek „#power“ zugeordnet.
+Bauteilsymbol „GND“ wurde der Bibliothek „#power“ zugeordnet.
+Bauteilsymbol „C“ wurde der Bibliothek „#rcl“ zugeordnet.
+Bauteilsymbol „GND“ wurde der Bibliothek „#power“ zugeordnet.
+Bauteilsymbol „VCC“ wurde der Bibliothek „#power“ zugeordnet.
+Bauteilsymbol „Battery“ wurde der Bibliothek „#device“ zugeordnet.
+Bauteilsymbol „VCC“ wurde der Bibliothek „#power“ zugeordnet.
+Bauteilsymbol „VCC“ wurde der Bibliothek „#power“ zugeordnet.
+Bauteilsymbol „VIN“ wurde der Bibliothek „++-ZK-2-Smart-Car-++-rescue“ zugeordnet.
+Bauteilsymbol „VIN“ wurde der Bibliothek „++-ZK-2-Smart-Car-++-rescue“ zugeordnet.
+Bauteilsymbol „VIN“ wurde der Bibliothek „++-ZK-2-Smart-Car-++-rescue“ zugeordnet.
+Bauteilsymbol „Conn_01x08_Male“ wurde der Bibliothek „conn“ zugeordnet.
+Bauteilsymbol „GND“ wurde der Bibliothek „#power“ zugeordnet.
+Bauteilsymbol „VCC“ wurde der Bibliothek „#power“ zugeordnet.
+Bauteilsymbol „Jumper_NO“ wurde der Bibliothek „#conn“ zugeordnet.
+Bauteilsymbol „VCC“ wurde der Bibliothek „#power“ zugeordnet.
+Bauteilsymbol „VCC“ wurde der Bibliothek „#power“ zugeordnet.
+Bauteilsymbol „Jumper_NO“ wurde der Bibliothek „#conn“ zugeordnet.
+Bauteilsymbol „GS2“ wurde der Bibliothek „#conn“ zugeordnet.
+Hinweis: Kartierung der Symbolbibliothekstabelle ist fertig gestellt!

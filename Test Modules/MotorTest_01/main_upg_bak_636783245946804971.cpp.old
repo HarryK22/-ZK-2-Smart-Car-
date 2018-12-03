@@ -1,0 +1,18 @@
+/*
+ * MototTest_01.cpp
+ *
+ * Created: 20.11.2018 15:29:21
+ * Author : hk-v
+ */ 
+
+#include <avr/io.h>
+
+
+int main(void)
+{
+    /* Replace with your application code */
+    while (1) 
+    {
+    }
+}
+

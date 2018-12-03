@@ -1,0 +1,18 @@
+/*
+ * MotorTest_03.cpp
+ *
+ * Created: 21.11.2018 11:22:24
+ * Author : hk-v
+ */ 
+
+#include <avr/io.h>
+
+
+int main(void)
+{
+    /* Replace with your application code */
+    while (1) 
+    {
+    }
+}
+
